@@ -1,5 +1,5 @@
 ## Hi there, I am Lasal Rathnayake👋
-# 💫 About Me:
+
 I’m interested in Designing<br>I’m currently learning Computer Science
 
 
