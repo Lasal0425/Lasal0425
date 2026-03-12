@@ -1,6 +1,6 @@
 ## Hi there, I am Lasal Rathnayake👋
 
-I’m interested in Designing<br>I’m currently learning Computer Science
+I’m interested in Designing<br>I’m currently learning Computer Science and building AI Agents for fun
 
 
 # 💻 Tech Stack:
