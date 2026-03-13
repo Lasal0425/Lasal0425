@@ -9,6 +9,16 @@ I’m interested in Designing<br>I’m currently learning Computer Science and b
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+# 🌱 Currently Learning
+
+- Building **AI Agents**
+- Learning **LLM orchestration with LangChain**
+- Experimenting with **RAG pipelines using PostgreSQL + pgvector**
+- Exploring **Next.js for web analytics tools**
+
+![](https://komarev.com/ghpvc/?username=Lasal0425&color=blue)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **Lasal0425/Lasal0425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
