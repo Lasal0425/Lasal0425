@@ -15,8 +15,6 @@ Currently focused on **AI Agents, Retrieval-Augmented Generation (RAG), and mode
 - 🧠 Exploring **LLM orchestration with LangChain**  
 - 🗄️ Working with **vector databases (PostgreSQL + pgvector)**  
 - 🎨 Passionate about **design-driven product development**
-
----
 ---
 
 # 💻 Tech Stack
