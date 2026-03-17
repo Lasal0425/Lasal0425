@@ -77,7 +77,3 @@ Currently focused on **AI Agents, Retrieval-Augmented Generation (RAG), and mode
 - **Retrieval-Augmented Generation (RAG)**
 - **Vector databases with PostgreSQL + pgvector**
 - **Full-stack architectures for AI applications**
-
----
-
-⭐️ From [Lasal Rathnayake](https://github.com/Lasal0425)
