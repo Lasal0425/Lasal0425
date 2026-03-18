@@ -1,6 +1,6 @@
 ## Hi, I'm Lasal Rathnayake 👋
 
-Computer Science student passionate about **Full-Stack Development, AI Systems, and Product Design**.  
+Computer Science undergraduate passionate about **Full-Stack Development, AI Systems, and Product Design**.  
 I enjoy building **end-to-end applications that combine AI, scalable backend systems, and thoughtful user experiences.**
 
 Currently focused on **AI Agents, Retrieval-Augmented Generation (RAG), and modern full-stack architectures.**
